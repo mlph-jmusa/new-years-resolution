@@ -36,3 +36,7 @@
     transform: rotate(360deg);
   }
 }
+
+.MuiInput-underline-24:hover:not(.MuiInput-disabled-23):not(.MuiInput-focused-22):not(.MuiInput-error-25):before {
+  border-bottom: 2px solid rgb(255, 255, 255) !important;
+}
